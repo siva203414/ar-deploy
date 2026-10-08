@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: trainerreyaz/ib-image
+        image: trainerreyaz/mb-image
 ---
 apiVersion: v1
 kind: Service
